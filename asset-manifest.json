@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/first-learn/static/css/main.5f361e03.chunk.css",
+    "main.js": "/first-learn/static/js/main.45cfb36c.chunk.js",
+    "main.js.map": "/first-learn/static/js/main.45cfb36c.chunk.js.map",
+    "runtime-main.js": "/first-learn/static/js/runtime-main.d8b26a4d.js",
+    "runtime-main.js.map": "/first-learn/static/js/runtime-main.d8b26a4d.js.map",
+    "static/css/2.ba441f84.chunk.css": "/first-learn/static/css/2.ba441f84.chunk.css",
+    "static/js/2.ac44d131.chunk.js": "/first-learn/static/js/2.ac44d131.chunk.js",
+    "static/js/2.ac44d131.chunk.js.map": "/first-learn/static/js/2.ac44d131.chunk.js.map",
+    "index.html": "/first-learn/index.html",
+    "precache-manifest.200832da27ebaf727c39d977ea1c17ae.js": "/first-learn/precache-manifest.200832da27ebaf727c39d977ea1c17ae.js",
+    "service-worker.js": "/first-learn/service-worker.js",
+    "static/css/2.ba441f84.chunk.css.map": "/first-learn/static/css/2.ba441f84.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/first-learn/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ac44d131.chunk.js.LICENSE.txt": "/first-learn/static/js/2.ac44d131.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/first-learn/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/first-learn/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8b26a4d.js",
+    "static/css/2.ba441f84.chunk.css",
+    "static/js/2.ac44d131.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.45cfb36c.chunk.js"
+  ]
+}
